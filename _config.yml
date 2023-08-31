@@ -18,13 +18,13 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   My Personal Portfolio! A collection of projects over the years
 twitter_username: username
-github_username: username
+github_username: seth-thom
 minimal_mistakes_skin: default
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Seth Thomas"
+  avatar : "/assets/images/seth grad 600 600.jpeg"
+  bio    : "Hi! I'm Seth, a graduate of the University of South Carolina in International Business and Operations and Supply Chain."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
