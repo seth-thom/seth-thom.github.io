@@ -1,6 +1,6 @@
 ---
 title: "Essay: A Young Guy From Brooklyn"
-last_modified_at: 2023-09-06T00:00:00-05:00
+last_modified_at: 2020-11-16T12:00:00
 categories:
   - Essay
 tags:
