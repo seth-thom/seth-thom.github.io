@@ -1,6 +1,6 @@
 ---
 title: "Essay: The Politics of Music"
-last_modified_at: 2016-03-09T16:20:02-05:00
+last_modified_at: 2020-04-24T00:00:00-05:00
 categories:
   - Essay
 tags:
