@@ -1,9 +1,10 @@
 # Changelog
 
+## Versions
+
 ## Running Localhost information
 
-## Versions
-- 1.0
 ## Future to-do
-- Complete blog posts with projects
-- Update colors
+### Projects:
+- Thesis (.pdf, .md? how should we show this?)
+- 
