@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: "Undergraduate Thesis: Public Transportation in the United States"
 last_modified_at: 2023-05-01T12:00:00
 categories:
   - Research
@@ -68,7 +68,7 @@ Within the NTD, data follows a relatively strict hierarchy. Each entry contains 
 
 **Figure 1**
 *Map of New York, NY Urban Area Related Transportation Agency, Mode Entries*
-![](seth-thom.github.io/assets/images/thesis_figures/fig1.png)
+![](https://raw.githubusercontent.com/seth-thom/seth-thom.github.io/master/assets/images/thesis_figures/fig1.png)
 
 Three sets of external independent variables were tested against performance metrics from the NTD. The first model concerns general demographic data. The second model tested income distributions to identify if there are specific income levels more likely to utilize public transportation. And the third model tested an education distribution to see if a specific education attainment is related to public transportation usage. Variable selection for the external analyses is shown in Table 1. 
 
@@ -171,7 +171,7 @@ The resulting sample of urban areas used in the analysis was extremely diverse. 
 
 **Figure 2**
 *Distribution of Unlinked Passenger Trips (267 Urban Areas)*
-![](seththom.github.io/assets/images/thesis_figures/fig2.png)
+![](https://raw.githubusercontent.com/seth-thom/seth-thom.github.io/master/assets/images/thesis_figures/fig2.png)
 
 ## Statistical Results
 Many of the independent variables showed strong relationships to unlinked passenger trips across the sample of urban areas. Each of the external analyses returned at least two variables with strong relationships to unlinked passenger trips.
@@ -279,13 +279,13 @@ Testing demographic information of urban areas against public transportation usa
 
 **Figure 3**
 *Unlinked passenger Trips and Total Population for United States Urban Areas. Note, both unlinked passenger trips and total population are displayed logarithmically.*
-INSERT IMAGE HERE
+![](https://raw.githubusercontent.com/seth-thom/seth-thom.github.io/master/assets/images/thesis_figures/fig3.png)
 
 Some independent variables contradicted established relationships put forward in literature. In regards to median household income, this analysis found that as incomes increased, public transportation ridership increased. This does not indicate that higher income populations ride public transportation more frequently, only that urban areas with higher median incomes relate to higher public transportation utilization (Buehler, 2011). Figure 4 displays the relationship between median household income and unlinked passenger trips in more detail. This result could be due to the level of detail analyzed. Higher median incomes indicate a healthier economy, and urban areas exhibiting such characteristics could be more likely to have available funding to invest in public transportation. This hypothesis holds true in this dataset; the 7 urban areas with the most unlinked passenger trips – New York, Chicago, Los Angeles, Washington, San Francisco, Boston, and Philadelphia – all have median household incomes higher than $72,000 (z-score > 0.53).
 
 **Figure 4**
 *Median Household Income and Unlinked Passenger Trips. Note, Unlinked Passenger Trips is displayed logarithmically; the trendline shown is linear.*
-INSERT IMAGE HERE
+![](https://raw.githubusercontent.com/seth-thom/seth-thom.github.io/master/assets/images/thesis_figures/fig4.png)
 
 Analyzing the datasets at the urban area level removes the ability to subdivide a network’s service area or ridership. The findings for unemployment rate and the percentage of population that is foreign born also seem to contradict accepted theory. At the urban area level, a relationship between unemployment rate and public transportation usage was not statistically significant. However, individual lines of public transportation have been shown to contribute positively to public transportation usage (Tyndall, 2017). Likewise, on an individual level, foreign born citizens have been shown to be less likely to choose public transportation over driving (Barajas et al., 2018), but this analysis finds that urban areas with higher rates of foreign born citizens have higher public transportation usage. These two variables highlight an important limitation and future research opportunity; since aggregation occurred at the urban area level, these analyses cannot be used to predict individual behavior.
 
@@ -294,11 +294,11 @@ This analysis shows a similar trend with the income and education distributions.
 
 **Figure 5**
 *Correlation Coefficients to Unlinked Passenger Trips at Different Income Levels*
-Insert Image
+![](https://raw.githubusercontent.com/seth-thom/seth-thom.github.io/master/assets/images/thesis_figures/fig5.png)
 
 **Figure 6**
 *Correlation Coefficients to Unlinked Passenger Trips at Different Education Levels*
-Insert Image
+![](https://raw.githubusercontent.com/seth-thom/seth-thom.github.io/master/assets/images/thesis_figures/fig6.png)
 
 This is likely due to the same problem exhibited in the demographic analysis. Since income and education are highly correlated in the United States, trends at the urban area level are not necessarily indicative of the ridership base. Higher income and education levels are indicative of a healthier economy, and as previously mentioned, could indicate an environment in which public transportation investments are increased. Larger portions of the population in the middle levels indicate lower overall incomes, and a potential decrease in public transportation funding. More research into how income levels and education levels stimulate or stifle public transportation is warranted.
 
@@ -307,7 +307,7 @@ Both internal analyses – categorical operating and capital expenses, and rail/
 
 **Figure 7**
 *Vehicle Operations Operating Expenses and Unlinked Passenger Trips. Note: Both axes are displayed logarithmically; the trendline is linear.*
-Insert Image
+![](https://raw.githubusercontent.com/seth-thom/seth-thom.github.io/master/assets/images/thesis_figures/fig7.png)
 
 The analysis of infrastructure produced similar results; generally, the more infrastructure a public transportation system has, the more ridership it experiences. However, four types of rail – at-grade: in-street/embedded, elevated: retained fill, below-grade: bored/blasted tunnels, and below-grade: submerged tube – and one type of roadway – exclusive high-intensity busway – fail to show significant relationships. First, the at-grade and elevated building techniques listed typically are used for light rail systems, which frequently have lower ridership than their heavy rail counterparts. Secondly, the use of bored/blasted tunnels varies extensively between systems; Washington D.C. has over 2.5x as many as New York, but only 9.7% of the ridership. Though specific types of infrastructure display differing relationships to ridership, both total rail and total roadway miles correlate positively with ridership. The longer a road/rail based public transportation system, the more ridership it will generate.
 
