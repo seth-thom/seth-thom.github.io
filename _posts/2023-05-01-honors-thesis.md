@@ -319,35 +319,35 @@ Though this analysis provides a general overview, several opportunities for furt
 However, throughout this analysis, one conclusion has remained clear: public transportation will never be successful without the resources required to support it. Communities globally can realize the economic, environmental, and social benefits of public transportation. Investing in public transportation over automotive infrastructure provides a safer, cleaner alternative that does not exist today in much of the United States. A commitment to improving public transportation represents a commitment to a better, more sustainable future.
 
 ## References
-Abdelfattah, L., Deponte, D., & Fossa, G. (2022). The 15-minute city: Interpreting the model to bring out urban resiliencies. _Transportation Research Procedia_, _60_, 330–337. https://doi.org/10.1016/j.trpro.2021.12.043
-American Public Transportation Association. (2020). _Economic Impact of Public Transportation Investment—2020 Update_. https://www.apta.com/wp-content/uploads/APTA-Economic-Impact-Public-Transit-2020.pdf
-Barajas, J., Chatman, D., & Weinstein Agrawal, A. (2018). Immigration, Income, and Public Transit Perceptions: Findings from an Intercept Survey. _Journal of Public Transportation_, _21_(2), 1–18. https://doi.org/10.5038/2375-0901.21.2.1
-Bekka, K. (2006, August). _Cost-Benefit Analysis Will Guide Future Investments in Transit_. Wisconsin Department of Transportation. https://wisconsindot.gov/documents2/research/05-14tranbenefits-b1.pdf
-Benoit, P. (2018). The U.S. Transport Sector Has Become Less Energy Efficient: Should We Care? _Center for Strategic & International Studies_. https://www.csis.org/analysis/us-transport-sector-has-become-less-energy-efficient-should-we-care
-Buehler, R. (2011). Determinants of transport mode choice: A comparison of Germany and the USA. _Journal of Transport Geography_, _19_(4), 644–657. https://doi.org/10.1016/j.jtrangeo.2010.07.005
-Burrows, M., Burd, C., & McKenzie, B. (2021). _Commuting by Public Transportation in the United States: 2019_. United States Census Bureau. https://www.census.gov/content/dam/Census/library/publications/2021/acs/acs-48.pdf
-Cascetta, E., & Cartenì, A. (2014). A Quality-Based Approach to Public Transportation Planning: Theory and a Case Study. _International Journal of Sustainable Transportation_, _8_(1), 84–106. https://doi.org/10.1080/15568318.2012.758532
-Chiou, Y.-C., Jou, R.-C., & Yang, C.-H. (2015). Factors affecting public transportation usage rate: Geographically weighted regression. _Transportation Research Part A: Policy and Practice_, _78_, 161–177. https://doi.org/10.1016/j.tra.2015.05.016
-Dickens, M. (2023). _APTA Public Transportation Ridership Report Definitions_. American Public Transportation Association. https://www.apta.com/wp-content/uploads/Resources/resources/statistics/Documents/Ridership/APTA-ridership-report-definitions.pdf
-Federal Transit Administration. (2022, October 14). _Transit and Sustainability_. U.S. Department of Transportation. https://www.transit.dot.gov/regulations-and-programs/environmental-programs/transit-and-sustainability
-Federal Transit Administration & American Public Transportation Association. (2019). _National Transit Database_. https://www.transit.dot.gov/ntd/ntd-data?field_product_type_target_id=All&year=2019&combine
-Gokmen, S. (2022, May 11). _The Transport System of the Netherlands_. International Labour Association. https://www.ilabour.eu/blog/the-transport-system-of-the-netherlands/
-Gongadze, S., & Maassen, A. (2023). _Paris’ Vision for a ‘15-Minute City’ Sparks a Global Movement_. https://www.wri.org/insights/paris-15-minute-city
-International Transport Forum. (2018). _Road Safety Annual Report 2018_. OECD. https://www.itf-oecd.org/sites/default/files/docs/irtad-road-safety-annual-report-2018_2.pdf
-Litman, T. (2016). _The Hidden Traffic Safety Solution: Public Transportation_. American Public Transportation Association. https://www.apta.com/wp-content/uploads/Resources/resources/reportsandpublications/Documents/APTA-Hidden-Traffic-Safety-Solution-Public-Transportation.pdf
-Litman, T. (2023). _Evaluating Public Transit Benefits and Costs_. Victoria Transport Policy Institute. https://www.vtpi.org/tranben.pdf
-Mead, L. (2021, May 24). _The Road to Sustainable Transport_. International Institute for Sustainable Development. https://www.iisd.org/articles/deep-dive/road-sustainable-transport
-Moreno, C., Allam, Z., Chabaud, D., Gall, C., & Pratlong, F. (2021). Introducing the “15-Minute City”: Sustainability, Resilience and Place Identity in Future Post-Pandemic Cities. _Smart Cities_, _4_(1), Article 1. https://doi.org/10.3390/smartcities4010006
-Pojani, D., & Stead, D. (2015). Going Dutch? The export of sustainable land-use and transport planning concepts from the Netherlands. _Urban Studies_, _52_(9), 1558–1576. https://doi.org/10.1177/0042098014562326
-Pozoukidou, G., & Chatziyiannaki, Z. (2021). 15-Minute City: Decomposing the New Urban Planning Eutopia. _Sustainability_, _13_(2), Article 2. https://doi.org/10.3390/su13020928
-Replogie, M. (1991). Sustainability: A vital concept for transportation planning and development. _Journal of Advanced Transportation_, _25_(1), 3–17. https://doi.org/10.1002/atr.5670250103
-Roodbol-Mekkes, P. H., van der Valk, A. J. J., & Altes, W. K. K. (2012). The Netherlands Spatial Planning Doctrine in Disarray in the 21st Century. _Environment and Planning A: Economy and Space_, _44_(2), 377–395. https://doi.org/10.1068/a44162
-Sung, J., & Monschauer, Y. (2020, May 27). _Changes in transport behaviour during the Covid-19 crisis – Analysis_. International Energy Agency. https://www.iea.org/articles/changes-in-transport-behaviour-during-the-covid-19-crisis
-Taylor, B. D., Miller, D., Iseki, H., & Fink, C. (2009). Nature and/or nurture? Analyzing the determinants of transit ridership across US urbanized areas. _Transportation Research Part A: Policy and Practice_, _43_(1), 60–77. https://doi.org/10.1016/j.tra.2008.06.007
-TED (Director). (2013, December 6). _Enrique Peñalosa: Why buses represent democracy in action_. https://www.youtube.com/watch?v=j3YjeARuilI
-Transportation spending in the U.S. (2020, August 24). _The Transport Politic_. https://www.thetransportpolitic.com/databook/transportation-spending-in-the-u-s/
-Tyndall, J. (2017). Waiting for the R train: Public transportation and employment. _Urban Studies_, _54_(2), 520–537. https://doi.org/10.1177/0042098015594079
-United States Census Bureau. (2019). _American Community Survey_. https://www.census.gov/programs-surveys/acs/
+Abdelfattah, L., Deponte, D., & Fossa, G. (2022). The 15-minute city: Interpreting the model to bring out urban resiliencies. _Transportation Research Procedia_, _60_, 330–337. https://doi.org/10.1016/j.trpro.2021.12.043 <br>
+American Public Transportation Association. (2020). _Economic Impact of Public Transportation Investment—2020 Update_. https://www.apta.com/wp-content/uploads/APTA-Economic-Impact-Public-Transit-2020.pdf <br>
+Barajas, J., Chatman, D., & Weinstein Agrawal, A. (2018). Immigration, Income, and Public Transit Perceptions: Findings from an Intercept Survey. _Journal of Public Transportation_, _21_(2), 1–18. https://doi.org/10.5038/2375-0901.21.2.1 <br>
+Bekka, K. (2006, August). _Cost-Benefit Analysis Will Guide Future Investments in Transit_. Wisconsin Department of Transportation. https://wisconsindot.gov/documents2/research/05-14tranbenefits-b1.pdf <br>
+Benoit, P. (2018). The U.S. Transport Sector Has Become Less Energy Efficient: Should We Care? _Center for Strategic & International Studies_. https://www.csis.org/analysis/us-transport-sector-has-become-less-energy-efficient-should-we-care <br>
+Buehler, R. (2011). Determinants of transport mode choice: A comparison of Germany and the USA. _Journal of Transport Geography_, _19_(4), 644–657. https://doi.org/10.1016/j.jtrangeo.2010.07.005 <br>
+Burrows, M., Burd, C., & McKenzie, B. (2021). _Commuting by Public Transportation in the United States: 2019_. United States Census Bureau. https://www.census.gov/content/dam/Census/library/publications/2021/acs/acs-48.pdf <br>
+Cascetta, E., & Cartenì, A. (2014). A Quality-Based Approach to Public Transportation Planning: Theory and a Case Study. _International Journal of Sustainable Transportation_, _8_(1), 84–106. https://doi.org/10.1080/15568318.2012.758532 <br>
+Chiou, Y.-C., Jou, R.-C., & Yang, C.-H. (2015). Factors affecting public transportation usage rate: Geographically weighted regression. _Transportation Research Part A: Policy and Practice_, _78_, 161–177. https://doi.org/10.1016/j.tra.2015.05.016 <br>
+Dickens, M. (2023). _APTA Public Transportation Ridership Report Definitions_. American Public Transportation Association. https://www.apta.com/wp-content/uploads/Resources/resources/statistics/Documents/Ridership/APTA-ridership-report-definitions.pdf <br>
+Federal Transit Administration. (2022, October 14). _Transit and Sustainability_. U.S. Department of Transportation. https://www.transit.dot.gov/regulations-and-programs/environmental-programs/transit-and-sustainability <br>
+Federal Transit Administration & American Public Transportation Association. (2019). _National Transit Database_. https://www.transit.dot.gov/ntd/ntd-data?field_product_type_target_id=All&year=2019&combine <br>
+Gokmen, S. (2022, May 11). _The Transport System of the Netherlands_. International Labour Association. https://www.ilabour.eu/blog/the-transport-system-of-the-netherlands/ <br>
+Gongadze, S., & Maassen, A. (2023). _Paris’ Vision for a ‘15-Minute City’ Sparks a Global Movement_. https://www.wri.org/insights/paris-15-minute-city <br>
+International Transport Forum. (2018). _Road Safety Annual Report 2018_. OECD. https://www.itf-oecd.org/sites/default/files/docs/irtad-road-safety-annual-report-2018_2.pdf <br>
+Litman, T. (2016). _The Hidden Traffic Safety Solution: Public Transportation_. American Public Transportation Association. https://www.apta.com/wp-content/uploads/Resources/resources/reportsandpublications/Documents/APTA-Hidden-Traffic-Safety-Solution-Public-Transportation.pdf <br>
+Litman, T. (2023). _Evaluating Public Transit Benefits and Costs_. Victoria Transport Policy Institute. https://www.vtpi.org/tranben.pdf <br>
+Mead, L. (2021, May 24). _The Road to Sustainable Transport_. International Institute for Sustainable Development. https://www.iisd.org/articles/deep-dive/road-sustainable-transport <br>
+Moreno, C., Allam, Z., Chabaud, D., Gall, C., & Pratlong, F. (2021). Introducing the “15-Minute City”: Sustainability, Resilience and Place Identity in Future Post-Pandemic Cities. _Smart Cities_, _4_(1), Article 1. https://doi.org/10.3390/smartcities4010006 <br>
+Pojani, D., & Stead, D. (2015). Going Dutch? The export of sustainable land-use and transport planning concepts from the Netherlands. _Urban Studies_, _52_(9), 1558–1576. https://doi.org/10.1177/0042098014562326 <br>
+Pozoukidou, G., & Chatziyiannaki, Z. (2021). 15-Minute City: Decomposing the New Urban Planning Eutopia. _Sustainability_, _13_(2), Article 2. https://doi.org/10.3390/su13020928 <br>
+Replogie, M. (1991). Sustainability: A vital concept for transportation planning and development. _Journal of Advanced Transportation_, _25_(1), 3–17. https://doi.org/10.1002/atr.5670250103 <br>
+Roodbol-Mekkes, P. H., van der Valk, A. J. J., & Altes, W. K. K. (2012). The Netherlands Spatial Planning Doctrine in Disarray in the 21st Century. _Environment and Planning A: Economy and Space_, _44_(2), 377–395. https://doi.org/10.1068/a44162 <br>
+Sung, J., & Monschauer, Y. (2020, May 27). _Changes in transport behaviour during the Covid-19 crisis – Analysis_. International Energy Agency. https://www.iea.org/articles/changes-in-transport-behaviour-during-the-covid-19-crisis <br>
+Taylor, B. D., Miller, D., Iseki, H., & Fink, C. (2009). Nature and/or nurture? Analyzing the determinants of transit ridership across US urbanized areas. _Transportation Research Part A: Policy and Practice_, _43_(1), 60–77. https://doi.org/10.1016/j.tra.2008.06.007 <br>
+TED (Director). (2013, December 6). _Enrique Peñalosa: Why buses represent democracy in action_. https://www.youtube.com/watch?v=j3YjeARuilI <br>
+Transportation spending in the U.S. (2020, August 24). _The Transport Politic_. https://www.thetransportpolitic.com/databook/transportation-spending-in-the-u-s/ <br>
+Tyndall, J. (2017). Waiting for the R train: Public transportation and employment. _Urban Studies_, _54_(2), 520–537. https://doi.org/10.1177/0042098015594079 <br>
+United States Census Bureau. (2019). _American Community Survey_. https://www.census.gov/programs-surveys/acs/ <br>
 
 ## Appendix A: NTD Mode and Type of Service Definitions
 
